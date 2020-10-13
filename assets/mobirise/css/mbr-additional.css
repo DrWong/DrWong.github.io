@@ -1090,7 +1090,7 @@ a {
 }
 .cid-sazEL7PbWs {
   padding-top: 0rem;
-  padding-bottom: 5rem;
+  padding-bottom: 1rem;
   background-color: #e5e7e6;
 }
 .cid-sazEL7PbWs .mbr-overlay {
@@ -1217,8 +1217,8 @@ a {
   }
 }
 .cid-sazEOqDTcM {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #e5e7e6;
 }
 .cid-sazEOqDTcM img,
@@ -1277,12 +1277,45 @@ a {
   color: #bbbbbb;
 }
 .cid-scbRgmQaCh {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #e5e7e6;
 }
 .cid-scbRgmQaCh .mbr-text,
 .cid-scbRgmQaCh .link {
+  text-align: center;
+}
+.cid-sdg3dnQ4Fq {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #e5e7e6;
+}
+.cid-sdg3dnQ4Fq .media-container-row {
+  justify-content: space-between;
+}
+.cid-sdg3dnQ4Fq .mbr-iconfont-social {
+  margin: 0.5rem;
+  font-size: 32px;
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #232323;
+  border: 2px solid #232323;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-sdg3dnQ4Fq .mbr-iconfont-social:before {
+  padding: 0.6rem;
+}
+.cid-sdg3dnQ4Fq .mbr-iconfont-social:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
+.cid-sdg3dnQ4Fq .icons {
+  justify-content: center !important;
+}
+.cid-sdg3dnQ4Fq .text-content * {
   text-align: center;
 }
 .cid-sazEGqw3H6 {
@@ -2198,7 +2231,7 @@ a {
 }
 .cid-sd9OewGym7 {
   padding-top: 5rem;
-  padding-bottom: 0rem;
+  padding-bottom: 1rem;
   background-color: #e5e7e6;
 }
 .cid-sd9OewGym7 .social-row .soc-item {
@@ -2221,7 +2254,7 @@ a {
 }
 .cid-sd9OESDc4a {
   padding-top: 1rem;
-  padding-bottom: 5rem;
+  padding-bottom: 1rem;
   background: #e5e7e6;
 }
 @media (max-width: 767px) {
