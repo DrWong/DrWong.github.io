@@ -57,7 +57,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-180830270-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-180830270-1');\n</script>"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-180830270-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-180830270-1');\n</script>",
+    "global_footer_custom": "<!-- Default Statcounter code for Eaglewood Chiropractic\nhttp://eaglewoodchiro.ca -->\n<script type=\"text/javascript\">\nvar sc_project=12412715; \nvar sc_invisible=1; \nvar sc_security=\"514693cc\"; \n</script>\n<script type=\"text/javascript\"\nsrc=\"https://www.statcounter.com/counter/counter.js\"\nasync></script>\n<noscript><div class=\"statcounter\"><a title=\"Web Analytics\"\nhref=\"https://statcounter.com/\" target=\"_blank\"><img\nclass=\"statcounter\"\nsrc=\"https://c.statcounter.com/12412715/0/514693cc/1/\"\nalt=\"Web Analytics\"></a></div></noscript>\n<!-- End of Statcounter Code -->"
   },
   "pages": {
     "index.html": {
