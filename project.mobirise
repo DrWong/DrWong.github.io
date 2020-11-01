@@ -4862,11 +4862,11 @@
           "_cid": "sazEERUiIr",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
+          "_anchor": "menu2-12",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu2-12"
+          "_params": {}
         },
         {
           "alias": false,
@@ -4924,7 +4924,7 @@
           },
           "_name": "content5",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#e5e7e6\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\"><b>X-Ray Diagnostic Imaging information:</b></h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">X-rays can play an important role in diagnosis and are recommended when a need has been determined after taking a patient case history and conducting a physical examination. Chiropractors receive extensive education in radiology covering a full range of topics from X-ray protection to interpretation and diagnosis.<br><br>We are able to order/request plain film radiographs directly from diagnostic imaging departments in most Nova Scotia hospitals.<br><br>The buttons below are links to NS Health information pages for locations, contacts and online booking for x-ray diagnostic imaging.</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\"><a class=\"btn btn-black\" href=\"http://www.nshealth.ca/content/x-ray\" data-app-placeholder=\"Type Text\" target=\"_blank\">NS Heath X-Ray Information</a> <a class=\"btn btn-black\" href=\"https://booking.nshealth.ca\" data-app-placeholder=\"Type Text\" target=\"_blank\">NS Health Online Booking Site</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#e5e7e6\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\"><b>X-Ray Diagnostic Imaging information:</b></h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">X-rays can play an important role in diagnosis and are recommended when a need has been determined after taking a patient case history and conducting a physical examination. Chiropractors receive extensive education in radiology covering a full range of topics from X-ray protection to interpretation and diagnosis.<br><br>We are able to order/request plain film radiographs directly from diagnostic imaging departments in most Nova Scotia hospitals. If recommended, X-ray requisition forms will be provided to you for images to be taken at a Nova Scotia hospital of your choosing.<br><br>The buttons below are links to NS Health location information and online booking for x-ray diagnostic imaging.</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\"><a class=\"btn btn-black\" href=\"http://www.nshealth.ca/content/x-ray\" data-app-placeholder=\"Type Text\" target=\"_blank\">NS Heath X-Ray Information</a> <a class=\"btn btn-black\" href=\"https://booking.nshealth.ca\" data-app-placeholder=\"Type Text\" target=\"_blank\">NS Health Online Booking Site</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_JSplaceholders": [],
           "_PHPplaceholders": [],
           "_anchor": "content5-15",
@@ -5100,11 +5100,11 @@
           "_cid": "sazEGqw3H6",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
+          "_anchor": "footer6-13",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {},
-          "_anchor": "footer6-13"
+          "_params": {}
         }
       ]
     }
